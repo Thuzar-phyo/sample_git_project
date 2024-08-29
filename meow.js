@@ -4,4 +4,3 @@ console.log("Meow");
 //md --> markdown
 // This is from main
 //This is homepage
-//This is contactpage
