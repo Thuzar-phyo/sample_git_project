@@ -1,0 +1,14 @@
+main ----|----- --> on production (real website's source)
+    |feature | -------
+
+
+    git branch -b [branch name]
+    git branch -b homepage
+    git status 
+    on Branch [branch name]
+
+    git branch -b color-fix
+    git branch color=fix
+    git branch homepage
+    git branch homepage
+    git checkout homepage
